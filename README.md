@@ -12,16 +12,16 @@ We were given ‘interest rate tables’ along with ‘Policyholder data’.
 
 ---
 ## PART 1
-We created a premium calculator, in which a policy holder details are entered manually. 
+## We created a premium calculator, in which a policy holder details are entered manually. 
 
 <img width="382" height="410" alt="image" src="https://github.com/user-attachments/assets/20c193a9-a9a7-4764-bfc6-75598b6e49f8" />
 
 
-And then by considering probabilities of various factors, the overall probability of enacting the life insurance is calculated.
+## And then by considering probabilities of various factors, the overall probability of enacting the life insurance is calculated.
 
 <img width="940" height="333" alt="image" src="https://github.com/user-attachments/assets/94185db0-2e51-45b7-9f3d-61aaab36a804" />
 
-Using this probability along with other expenses, profit, and errors for each year we calculate the present value of the life policy. An ultimately the total premium to be paid by this policy holder.
+## Using this probability along with other expenses, profit, and errors for each year we calculate the present value of the life policy. An ultimately the total premium to be paid by this policy holder.
 
 <img width="940" height="321" alt="image" src="https://github.com/user-attachments/assets/227b7e83-001b-4086-847a-21bcf6940976" />
 
